@@ -69,12 +69,6 @@ venv\Scripts\activate # Windows
 pip install pygame
 ```
 
-4. Create the three main files in your project directory:
-
-```bash
-touch tetris_game.py game_board.py tetrimino.py
-```
-
 ## Implementation Steps
 
 Follow these steps to implement the Tetris game:
