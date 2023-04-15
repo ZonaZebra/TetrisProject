@@ -22,7 +22,7 @@ This project is designed to help you build a Tetris game in Python using the Pyg
 3. Clone the repository to your local machine:
 
 ```bash
-git clone
+git clone https://github.com/ZonaZebra/TetrisProject.git
 ```
 
 4. Now you can open the project in your favorite IDE and start coding!
@@ -59,7 +59,9 @@ Here's a detailed UML diagram showing the relationships and attributes/methods o
 
 ```bash
 python3 -m venv venv
+
 source venv/bin/activate # Linux/Mac
+
 venv\Scripts\activate # Windows
 ```
 
